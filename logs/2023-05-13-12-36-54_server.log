@@ -1,0 +1,10 @@
+[2023-05-13 12:36:54,197] - INFO - Server Initialized with 127.0.0.1:10000
+[2023-05-13 12:37:04,039] - INFO - New Connection: 127.0.0.1:60920
+[2023-05-13 12:37:16,737] - INFO - New Connection: 127.0.0.1:60922
+[2023-05-13 12:37:20,051] - INFO - New Connection: 127.0.0.1:60923
+[2023-05-13 12:37:34,322] - INFO - /nick Client3
+[2023-05-13 12:37:46,681] - INFO - /nick Client2
+[2023-05-13 12:37:55,713] - INFO - /nick Client1
+[2023-05-13 12:38:11,215] - INFO - End Connection
+[2023-05-13 12:41:02,923] - WARNING - Keyboard Interrupt Detected. Shutting down!
+[2023-05-13 12:41:02,923] - INFO - Shutting down server!

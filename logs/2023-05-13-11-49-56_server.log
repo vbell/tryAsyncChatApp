@@ -1,0 +1,15 @@
+[2023-05-13 11:49:56,011] - INFO - Server Initialized with 127.0.0.1:10000
+[2023-05-13 11:50:25,108] - INFO - New Connection: 127.0.0.1:60653
+[2023-05-13 11:50:45,159] - INFO - 
+[2023-05-13 11:50:45,159] - INFO - 
+[2023-05-13 11:50:45,159] - INFO - End Connection
+[2023-05-13 11:51:13,876] - INFO - New Connection: 127.0.0.1:60656
+[2023-05-13 11:53:31,266] - INFO - some test
+[2023-05-13 11:53:41,820] - INFO - some text
+[2023-05-13 11:54:22,515] - INFO - test_client_1 message some
+[2023-05-13 11:57:20,934] - INFO - New Connection: 127.0.0.1:60692
+[2023-05-13 11:58:16,595] - INFO - Im second client
+[2023-05-13 12:10:37,132] - INFO - New Connection: 127.0.0.1:60764
+[2023-05-13 12:10:55,739] - INFO - Message from Name?
+[2023-05-13 12:14:13,574] - WARNING - Keyboard Interrupt Detected. Shutting down!
+[2023-05-13 12:14:13,574] - INFO - Shutting down server!

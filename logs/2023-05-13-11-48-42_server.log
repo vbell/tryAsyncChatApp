@@ -1,0 +1,3 @@
+[2023-05-13 11:48:42,695] - INFO - Server Initialized with 127.0.0.1:10000
+[2023-05-13 11:49:28,166] - WARNING - Keyboard Interrupt Detected. Shutting down!
+[2023-05-13 11:49:28,166] - INFO - Shutting down server!

@@ -1,0 +1,23 @@
+[2023-05-13 12:14:39,064] - INFO - Server Initialized with 127.0.0.1:10000
+[2023-05-13 12:15:01,497] - INFO - New Connection: 127.0.0.1:60793
+[2023-05-13 12:15:09,821] - INFO - New Connection: 127.0.0.1:60794
+[2023-05-13 12:15:19,319] - INFO - New Connection: 127.0.0.1:60796
+[2023-05-13 12:15:38,382] - INFO - From client1
+[2023-05-13 12:18:20,270] - INFO - 
+[2023-05-13 12:18:20,271] - INFO - 
+[2023-05-13 12:18:20,271] - INFO - End Connection
+[2023-05-13 12:18:39,666] - INFO - New Connection: 127.0.0.1:60819
+[2023-05-13 12:22:20,436] - INFO - /nick Client3
+[2023-05-13 12:22:35,304] - INFO - Send from Client3
+[2023-05-13 12:31:41,779] - INFO - I send some message
+[2023-05-13 12:36:40,499] - INFO - 
+[2023-05-13 12:36:40,500] - INFO - 
+[2023-05-13 12:36:40,500] - INFO - End Connection
+[2023-05-13 12:36:44,102] - INFO - 
+[2023-05-13 12:36:44,103] - INFO - 
+[2023-05-13 12:36:44,103] - INFO - End Connection
+[2023-05-13 12:36:46,153] - INFO - 
+[2023-05-13 12:36:46,153] - INFO - 
+[2023-05-13 12:36:46,153] - INFO - End Connection
+[2023-05-13 12:36:51,478] - WARNING - Keyboard Interrupt Detected. Shutting down!
+[2023-05-13 12:36:51,478] - INFO - Shutting down server!
